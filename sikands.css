@@ -1,361 +1,489 @@
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name = "description" content = "kush sikand"
-   
-    <link rel="shortcut icon" type="image/x-icon" href="myfav.ico">
-    <link rel ="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="sikands.css">
-    <script src="http://getbootstrap.com/assets/js/ie-emulation-modes-warning.js"></script>
-    
-
-  </head>
-  <body onload="document.body.style.opacity='1'">
-     
-      
-     
-      <div class = "sikands">
-        <div class = "container">
-        	<center>
-            <h1 class = "aboutk">  Welcome! </h1>
-        
-             <h1 class = "aboutk"> We hear you are a baseball fan! </h1>
-             <div class = 'k'>
-             	<h1 class = 'k'> With our following presentation, we will give you a more advanced understanding of baseball statistics in the MLB. </h1>
-             </div>
-            </center>
-             			
-
-           
-        </div>
-      </div>
-
-   
-    
-      
-<div class = "about" id = "about">
-          <div class = "container">
-
-          <div class = "row" >
-        <div class = "back1">
-
-           
-
-      
-         
-           
-        
-           
-            
-                  <h1 class = "hmmm2" > 
-            <center>  In baseball, it's difficult to compare pitchers and batters in their worth and performances. In addition, typical stats like Earned Run Average (ERA) for pitchers and batting average (AVG) for batters don't always tell the whole picture for each respective player.  <center>
-            <br/> 
-             </center>
-          </h1>
-
-        
-
-      
- 			 
- 		</div>
- 		</div>
- 		</div>
- 		</div>
-           
-
-
-
-
-      
-<div class = "about" id = "about">
-        
-        <div class = "back">
-        <div class = "container">
-           <div class = "row" >
-           <div class = "divs">
-            <div class = "col-md-4">
-              <center> <h1 class = "hmmm">  <span> THEN CAME WAR: </span> </h1> </center>
-            </div>
-             <div class = "col-md-8" >
-            
-              
-                     <div class="divs" >      <h1 class = "hmmm1" >  <span>    
-                 WAR (Winning Above Replacement), provides a homogeneous metric for evaluating both pitchers and batters' performances at the same time. This statistic, along with with advanced performance variables such as wOBA and FIP, allow for us to gain a more accurate representation of the best players in Major League Baseball. These will be discussed in more detail below as we analyze players from the 2016-2017 MLB season. <span class='spacer'> </span> </span>   </h1> </div>
-              
-
-
- 					 </div>
- 			</div>
-           
-
-
-
-      </div>
-    </div>
-    </div>
-    </div>
-
-
-      
-<div class = "about" id = "about">
-        
-        <div class = "back1">
-   <div class="container">
-          
-           
-        
-           
-            
-                  <h1 class = "hmmm" >
-            <center> What makes a good batter?  <center> 
-
-
-            <br/> 
-            <br>
-
- <div class = "row"> 
-<iframe src="https://public.tableau.com/shared/RSYNZM8BN?:display_count=yes:showVizHome=no&:embed=true" width="90%" height="500"></iframe><br> <br> <br>
-
- <h3> wOBA is a solid indicator for overall offensive performance by a batter. It is meant to better the metric of On-base plus slugging (OPS), a popular sabermetric, by combining and taking into account all aspects of hitting and weighting them in proportion to their actual run value. 
-If you look at the top graph showing the wOBA values for each player, you can see that a lot of players who rank top in the wOBA value also happened to be a top MVP candidate. Therefore, we can see that top-ranking batters tend to have high wOBA values too. Try clicking on a bar or searching up a player on the barchart to see where they stand on HR vs. WAR chart! </h3> <br> <br> <br> 
-
-<div class = "back25">
-  <div class = "row">         
-
-  <div class = "col-md-6" >
-
-    <iframe class="resp-iframe" src="https://public.tableau.com/shared/CMRYBSKYF?:display_count=yes:showVizHome=no&:embed=true" height = "300px" width = "500px" gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
-
-    </div>
-
-  <div class = "col-md-6" >
-<h3>  This is a bar chart showing each of the weights in calculation for wOBA. You can see that Homeruns are not the only important factors in the batting performance, but rather a combination of abilities from hitting to being hit!  </h3> </div>
- 		
-</div>
-</div>
-
-  <div class = "col-md-6" > <br> <br>
-
-   <h3> On the right is a scatterplot showing the relationship between Home Runs and WAR. It isn't a strong relationship. You can see this by hovering over the trendline of the scatterplot and observing the R-squared value (0.1); value closer to 1 indicates stronger relationship. So Home Runs don't explain everything after all. </h3>
-
-    </div> <br> <br>
-
- <div class = "col-md-6" >
-
-    <iframe class="resp-iframe" src="https://public.tableau.com/shared/3M2W8B5KD?:display_count=no&:showVizHome=no:embed=true" height = "300px" width = "500px"gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
-
-    </div>
+.sikands
+{
+	background-image: url('phototo.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center top;
   
-
-
- 		</div>
- 		</div>
- </div>
-
-
-
-
-
-
-
-
-
-
-
-<div class = "about" id = "about">
-        
-        <div class = "back23">
-        <div class = "container">
-           <div class = "row" >
-           
-        
-             <div class = "col-md-12" >
-            
-                  <h1 class = "hmmm" color="white"> 
-            <center> <span color="white">What makes a good pitcher? </span>  <center>  
-
-
-            <br/> 
-            <br>
-            <div class = "row"> 
- <iframe class="resp-iframe" src="https://public.tableau.com/views/SportsProject1_0/FIPvPlayer?:&:showVizHome=no:embed=true" height = "600px" width = "1000px"gesture="media"  allow="encrypted-media" allowfullscreen></iframe> <br> <br> <br>
-
-
-
- <h3> FIP is a solid indicator for luck-excluded performance by a pitcher. It is meant to better the metric of Earned Run Average (ERA), by acknowledging that pitchers have little control over balls in play and assessing a pitcher's ability by looking at results pitchers can directly control.
-Look at the top bar chart with FIP values for each player; you can see that a most of players who rank top in the FIP value (lower the better) also happened to be a top Cy Young awards candidate. Therefore, we can see that top-ranking pitchers tend to have low FIP values too. Try clicking on a bar or searching up a player on the barchart to see where they stand on WAR vs. ERA chart! </h3> <br> <br> <br>  </div>
-
-<div class ="back25">
-  <div class = "row">         
-
-
-
-  <div class = "col-md-6" >
-
-
-    <iframe class="resp-iframe" src="https://public.tableau.com/views/SportsProject1_0/FIPweights?:&:showVizHome=no:embed=true"" height = "300px" width = "500px"gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
-
-    </div>
-
-
-  <div class = "col-md-6" >
-<h3> On the left is a bar chart showing each of the weights in calculation for FIP. You can see that Homeruns are detrimental to FIP perforamnce. </h3> </div>
-    
-</div>
-</div>
-
-  <div class = "col-md-6" > <br> <br>
-
-   <h3> 
-On the right is a scatterplot showing the relationship between Wins and WAR. It isn't a strong relationship. You can see this by hovering over the trendline of the scatterplot and observing the R-squared value (0.3); value closer to 1 indicates stronger relationship. Wins are highly luck-dependent. WAR isn't so generous to luck-based statistics. 
- </h3>
-
-    </div> <br> <br>
-
- <div class = "col-md-6" >
-
-    <iframe class="resp-iframe" src="https://public.tableau.com/views/SportsProject1_0/Winsvs_WAR?::&:showVizHome=no:embed=true" height = "300px" width = "500px"gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
-
-    </div>
+	padding-top: 200px;
+	padding-bottom: 200px;
   
+	color: white;
 
 
-    </div>
-    </div>
- </div>
+}
 
 
+.back1
+{
+  background-color: white;
+  color: black;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
 
 
+h1 span { 
+   color: white; 
+  
+  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 0px; 
+}
 
-
-
-</div> </div>
-
-
-<div class = "about" id = "about">
-        
-        <div class = "back4">
-        <div class = "container">
-      
-           <div class = "row" >
-
-
-           
-        
-             <div class = "col-md-12" >
-            
-                  <h1 class = "hmmm" >
-            <center> Parallel Comparison of Pitchers and Batters   <center> 
-
-</div>
-            <br/> 
-            <br>
-
-       
-        
-           
-            
-                  <h1 class = "hmmm" color="white"> 
-
-</div>
-            <br/> 
-            <br>
-<div class = "row"> 
+h1 span.spacer {
+   padding:0 5px;
+}
 
 
 
 
-  <div class = "col-md-6" >
+.back
+{
+  background-image: url('baseball-1222404.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center top;
+  
+  padding-top: 120px;
+  padding-bottom: 120px;
+  color: white;
+}
 
 
-    <iframe class="resp-iframe" src="https://public.tableau.com/views/SportsProject1_0/Batter-WARv_wOBA?:&:showVizHome=no:embed=true" height = "300px" width = "500px"gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
 
-    </div>
+.back23
+{
+  background-image: url('baseball-1222404.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center top;
+  
+  padding-top: 120px;
+  padding-bottom: 120px;
 
-  <div class = "col-md-6" >
+  color: black;
+}
 
-    <iframe class="resp-iframe" src="https://public.tableau.com/views/SportsProject1_0/Pitcher-WARv_FIP?:&:showVizHome=no:embed=true" height = "300px" width = "500px"gesture="media"  allow="encrypted-media" allowfullscreen></iframe>
+.back4{
+    background-color: #ededed;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.back25{
+    background-color:  #ecffe6;
+      padding-top: 120px;
+    padding-bottom: 120px;
+      padding-right: 20px;
     
-</div>
-          
-          </h1>
-          <br/> 
-
- </div> 
-
- <div class = "row">
-
-  <div class = "col-md-12">
+}
 
 
-   <h3> Hover over the points above to see some details of individual player's statistics/over the lines to see the significance of correlations! </h3>
-
-  </div>
 
 
-    <div class = "col-md-6"> 
 
-          <h3> wOBA (Weighted On-base Average): This metric attempts to credit a hitter “for the value of each outcome  (single, double, etc) rather than treating all whites or times on base equally. It is considered correlated to variables such as batting average and RBI.
-For exact formula and context of wOBA see Batter-specific dashboard. </h3>
 
-</div>
+.k
+{
+  padding-top: 40px;
+  font-size: 50px;
+}
 
- <div class = "col-md-6">
+.hmmm
+{
+  font-size: 40px;
+   padding: 0px;
+    margin: 0px;
+}
 
-         <h3> FIP (Fielding Independent Pitching): This metric measures what a player’s ERA would look like if the pitcher were to have experienced league average results on balls in play and league average timing.” Thus, in essence this states tries to normalize ERA.
-For exact formula and context of FIP see the Pitcher-specific dashboard.</h3>
 
- </div>
+.hmmm1
+{
+  font-size: 30px;
+}
 
-<div class = "col-md-12">
+.hmmm2
+{
+  font-size: 35px;
+}
 
-<h3> WAR: WAR stand for Wins Above Replacement. As Fangraphs states, it attempts to “summarize a player’s total contributions to their team in one statistic”, expressing the value as the amount of Wins they contributed to their team.  We use Fangraphs’ formula for this, which takes sabermetrics representing different aspects in batting and pitching, such as fielding, batting, overall league performance. 
-Exact formula for batters: https://bit.ly/2Q7p1LF
-Exact formula for pitchers: https://bit.ly/2OTbFho
-WAR  should be used as a guide for separating groups of players, and not as an exact estimate. It's hard to distinguish a 6.4 WAR player with 6.1 WAR player using WAR, but WAR can show with high level of confidence that a 6.4 WAR player and 4.1 WAR player are different in their values to quite an extent! </h3>
+.aproj
+{
+   font-size: 24px;
+   color: #94B84D;
+}
 
-           
- 			 </div>
- 		</div>
- 		</div>
- 		</div>
- </div>
+.aproj:hover
+{
+    color: #293D00;
+}
 
+.divs{
+  
+}
+
+.push2
+{
+   padding-top: 20px;
+}
+
+form 
+{ 
+    width: 100%;
+    margin: 0 auto; 
+}
+form textarea, 
+form input 
+{ 
+  width: 100%; 
+}
+
+#icon-bar
+{
+  color: #293D00;
+}
+
+
+#K
+{
+  color:black;
+  font-family: cursive;
+  
+}
+
+.boss
+{
+   font-family: cursive;
+   font-size: 40px;
+   
+}
+
+.ad{
+   font-size: 40px;
+   padding-bottom: 100px;
+}
+
+
+.about
+{
+	
+   padding-top: 40px;
+	position:relative;
+	 font-size: 32px;
+}
+
+.aboutk
+{
+	 font-size: 70px;
+}
+
+.golf
+{
+	border: 5px solid black;
+	
+}
+
+
+
+.col-md-4
+{
+	padding-top: 20px;
+}
+
+.me
+{
+	 padding-top: 200px;
+	 padding-bottom: 200px;
+}
+
+
+
+
+/* navbar */
+.navbar-default 
+{
+	background-image: none;
+    background-color: #293D00;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: white;
+    color: white;
+}
+
+.navbar-default1
+{
+	background-image: none;
+    background-color: #293D00;
+    border-color: white;
+    color: white;
+}
+/* title */
+.navbar-default .navbar-brand
+ {
+    color: white;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #94B84D;
+
+}
+/* link */
+.navbar-default .navbar-nav > li > a 
+{
+    color: white;
+    height: 100%;
+
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus 
+{
+   
+    
+    color: #94B84D;
+
+
+
+}
+.navbar-default .navbar-nav > .active > a
+{
+	color: white;
+    background-color: #ffb733;
+}
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus 
+{
+    background-color: #ffa27f;
+}
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus 
+{
+    color: #555;
+    background-color: #D5D5D5;
+}
+/* caret */
+.navbar-default .navbar-nav > .dropdown > a .caret 
+{
+    border-top-color: #777;
+    border-bottom-color: #777;
+}
+.navbar-default .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default .navbar-nav > .dropdown > a:focus .caret 
+{
+    border-top-color: #333;
+    border-bottom-color: #333;
+}
+.navbar-default .navbar-nav > .open > a .caret, 
+.navbar-default .navbar-nav > .open > a:hover .caret, 
+.navbar-default .navbar-nav > .open > a:focus .caret {
+    border-top-color: #555;
+    border-bottom-color: #555;
+}
+/* mobile version */
+.navbar-default .navbar-toggle 
+{
+    border-color: #DDD;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus 
+{
+    background-color: #DDD;
+}
+.navbar-default .navbar-toggle .icon-bar
+ {
+    background-color: #CCC;
+}
+
+
+
+.active
+{
+	background-color: orange;
+}
+
+.outline
+{
+  background: none;
+  padding-top: 2%;
+  padding-bottom: 2%;
  
+}
+.outline {
+    border: 5px solid rgba(10, 26, 42, 0.53);
+    color: rgba(10, 26, 42, 0.53);
+}
+
+button > a
+{
+	text-decoration: none;
+	color: black;
+}
+
+button > a:hover
+{
+	text-decoration: none;
+	color: black;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  max-width: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+   margin-bottom: 100px;
+   background-color: white;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 100px;
+  background-color: gray;
+  color: white;
+
+}
+
+}
+
+.resp-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
 
 
 
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
+.outline:hover {
+    color: rgb(10, 26, 44);
+
+   /* background-color: rgba(10, 26, 42, 0.53) */
+}
+.outline:active, .outline.active {
+    border-color: rgba(10, 26, 42, 0.53);
+    color: rgba(10, 26, 42, 0.53);
+    box-shadow: none;
+}
+
+.tableauPlaceholder {
+  margin-left: 50px;
+}
+
+
+.label
+{
+	display: block;
+	margin-top: 20px;
+	letter-spacing: 2px;
+}
+
+.interested
+{
+	padding-top: 250px;
+	padding-bottom: 150px;
+	background-color:#94B84D;
+	color: white;
+}
+
+#submit
+{
+	font-size: 22px;
+}
+
+.paddingk
+{
+  padding-top: 15px;
+}
 
 
 
- </body>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-   
-    <script src="js/bootstrap.min.js"></script>
-    
-    <script src="http://getbootstrap.com/dist/js/bootstrap.min.js"></script>
-    <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
-   <script src = "sikands.js"> </script>
+textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {   
+    border-color: #293D00;
+    box-shadow: none;
+    outline: 0 none;
+}
 
 
+input, textarea {
+	width:60em;
+	height:5em;
+	background-color:#dbdbdb;
+	border:1px solid #dedede;
+	padding-top:5px;
+  padding-bottom:5px;
+	margin-top:3px;
+	font-size:0.9em;
+	color:#3a3a3a;
+  max-width: 100%;
+  resize: horizontal;
+}
 
-<script>
+textarea {
+	height:213px;
+	background-color: #dbdbdb;
+}
 
-   
+.contact
+{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: #ededed;;
+
+}
+
+.contact1
+{
+	padding-top: 300px;
+	padding-bottom: 300px;
+	background-color: #ededed;
+
+}
 
 
-</script>
+#submit 
+{
+    width:127px;
+    height:78px;
+    background-color: #293D00;
+    margin-top:20px;
+    cursor:pointer;
+    color: white;
+}
 
+#submit:hover 
+{
+	    opacity:.9;
+}
 
+#space
+{
+   word-spacing: -20px;
+}
 
+@media
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5){
 
-</script>
-
-
+  html,
+  body{
+    width:100%;
+    overflow-x:hidden;
   
-</html>
+
+}
